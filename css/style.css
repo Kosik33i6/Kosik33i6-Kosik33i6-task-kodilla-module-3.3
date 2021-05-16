@@ -1,16 +1,61 @@
 *,
 *::before,
 *::after {
+
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+
 }
 
 html {
+
     font-size: 62.5%;
     font-family: 'KoHo', sans-serif;
+
 }
 
 body {
+
     display: flex;
+    background-color: #AEB5BD;
+    height: 100vh;
+
+}
+
+.card {
+
+    width: 40rem;
+    margin: auto;
+    padding: 1rem 3rem;
+    background-color: #fff;
+
+}
+
+.card__title {
+
+    font-size: 3rem;
+
+}
+
+.card__subtitle {
+
+    margin-bottom: 2rem;
+    font-size: 1.6rem;
+    font-style: italic;
+    font-weight: normal;
+
+}
+
+.card__text {
+
+    margin-bottom: 1.5rem;
+    font-size: 1.8rem;
+
+}
+
+.card__description {
+
+    font-size: 1.2rem;
+
 }
