@@ -1,0 +1,23 @@
+{
+  "name": "learning-git-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kosik33i6/Kosik33i6-Kosik33i6-task-kodilla-module-3.3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kosik33i6/Kosik33i6-Kosik33i6-task-kodilla-module-3.3/issues"
+  },
+  "homepage": "https://github.com/Kosik33i6/Kosik33i6-Kosik33i6-task-kodilla-module-3.3#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.14"
+  }
+}
