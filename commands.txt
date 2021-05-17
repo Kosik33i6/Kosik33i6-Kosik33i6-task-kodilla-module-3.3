@@ -1,3 +1,3 @@
 "scripts": {
-    "test:html": "html-validate index.html"
+    "test:html": "html-validate *.html"
   }

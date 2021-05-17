@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "test:html": "html-validate index.html"
+    "test:html": "html-validate *.html"
   },
   "repository": {
     "type": "git",
