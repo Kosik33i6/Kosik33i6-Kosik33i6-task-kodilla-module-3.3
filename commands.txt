@@ -1,0 +1,3 @@
+"scripts": {
+    "test:html": "html-validate index.html"
+  }
